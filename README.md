@@ -1,33 +1,94 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# EX.NO.3 – SCENARIO-BASED REPORT DEVELOPMENT UTILIZING DIVERSE PROMPTING TECHNIQUES
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+**DATE: 05.11.2026
+**REGISTER NUMBER: 212225230071
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Straightforward Prompts:
-    - •	"Define photosynthesis in one sentence."
-    - 	"List three advantages of electric vehicles."
+## AIM
 
- 3.	Tabular Format Prompting:
-     •	"Compare and contrast AC and DC current in a table."
-     •	"Provide a table listing five programming languages, their paradigms, and one use case each."
-3. Preceding Question Prompting:
-    •	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
-    •	"How do vaccines work? Describe the process of immunization in simple terms."
-4. Missing Word Prompting:
-   •	"The capital of France is ____."
-  •	"In photosynthesis, plants absorb sunlight to produce ____."
+To write and evaluate different types of prompts using Prompt Engineering techniques such as Straightforward Prompting, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting. To generate a report using a Unit 5 use case and Unit 2 prompting techniques.
 
+## EXPLANATION
 
-### Conclusion 
+Prompt Engineering is the process of designing effective instructions to obtain accurate and meaningful responses from Artificial Intelligence (AI) tools such as ChatGPT.
 
+The following prompting techniques are used:
 
-Result: The various types of Prompts are executed successfully with generated the report.
+1. Straightforward Prompting
+2. Tabular Format Prompting
+3. Preceding Question Prompting
+4. Missing Word Prompting
 
+## USE CASE
 
+**Topic: Artificial Intelligence in Healthcare**
 
+Artificial Intelligence is used in healthcare to diagnose diseases, analyze medical images, monitor patients, and support doctors in medical decision-making.
 
-# Result: Thus the Prompts were exected succcessfully.
+## PROCEDURE
 
+### Step 1: Straightforward Prompting
+
+**Prompt:**
+
+"Explain the applications of Artificial Intelligence in healthcare in simple English."
+
+**Generated Output:**
+
+Artificial Intelligence (AI) is used in healthcare to improve patient care and medical services. It helps doctors detect diseases, analyze medical images, monitor patients, and suggest suitable treatments. AI saves time and supports accurate medical decisions.
+
+### Step 2: Tabular Format Prompting
+
+**Prompt:**
+
+"Create a table showing five applications of Artificial Intelligence in healthcare, their functions, and benefits."
+
+**Generated Output:**
+
+| Application | Function | Benefit |
+|---|---|---|
+| Disease Diagnosis | Detects diseases | Early diagnosis |
+| Medical Imaging | Analyzes X-rays and scans | Improved accuracy |
+| Virtual Assistants | Answers patient queries | Saves time |
+| Patient Monitoring | Tracks health conditions | Continuous monitoring |
+| Drug Discovery | Helps develop medicines | Faster research |
+
+### Step 3: Preceding Question Prompting
+
+**Prompt:**
+
+"Why is Artificial Intelligence important in healthcare? How does AI help doctors detect diseases and improve patient care?"
+
+**Generated Output:**
+
+Artificial Intelligence is important in healthcare because it helps doctors make better decisions and improve patient care. AI analyzes medical data, detects diseases at an early stage, and supports treatment planning. It also reduces repetitive work and saves time. However, doctors must verify AI-generated recommendations.
+
+### Step 4: Missing Word Prompting
+
+**Prompt:**
+
+"Artificial Intelligence in healthcare helps doctors detect ______, analyze medical images, and improve patient ______."
+
+**Generated Output:**
+
+Artificial Intelligence in healthcare helps doctors detect **diseases**, analyze medical images, and improve patient **care**.
+
+## EVALUATION
+
+The four prompting techniques were evaluated based on the clarity, relevance, and usefulness of the generated responses.
+
+| Prompt Type | Evaluation |
+|---|---|
+| Straightforward Prompting | Provides a simple and direct answer |
+| Tabular Format Prompting | Organizes information clearly |
+| Preceding Question Prompting | Provides detailed explanations |
+| Missing Word Prompting | Tests knowledge and completes sentences |
+
+**Result of Evaluation:** Tabular Format Prompting is effective for comparing and organizing healthcare applications, while Straightforward Prompting is useful for obtaining quick answers.
+
+## CONCLUSION
+
+The experiment demonstrates the effective use of different Prompt Engineering techniques. Each technique produces responses in different formats based on the instructions provided. These techniques improve the clarity, structure, and usefulness of AI-generated content.
+
+## RESULT
+
+Thus, the various types of prompts were executed successfully, and the report was generated using different Prompt Engineering techniques.
